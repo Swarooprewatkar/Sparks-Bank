@@ -1,0 +1,19 @@
+
+h1{
+  padding: 0 10px;
+}
+body {
+    font-family: "Montserrat";
+    text-align: center;
+    padding: 0 80px;
+}
+
+.big-heading {
+    font-family: "Montserrat", Black 900;
+    font-size: 3.5rem;
+    font-weight: bold;
+    line-height: 1.5;
+}
+.container-history{
+  padding: 20px 220px;
+}
